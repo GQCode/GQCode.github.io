@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://gqcode.github.io/sitemap.xml 

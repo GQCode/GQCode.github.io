@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[GQCode.jp]]></title>
+  <link href="http://gqcode.github.io/atom.xml" rel="self"/>
+  <link href="http://gqcode.github.io/"/>
+  <updated>2015-09-30T08:39:48+09:00</updated>
+  <id>http://gqcode.github.io/</id>
+  <author>
+    <name><![CDATA[Yoshiyuki Yamada]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[工事中]]></title>
+    <link href="http://gqcode.github.io/blog/2015/09/28/hogehoge/"/>
+    <updated>2015-09-28T22:10:25+09:00</updated>
+    <id>http://gqcode.github.io/blog/2015/09/28/hogehoge</id>
+    <content type="html"><![CDATA[<h1>鋭意制作中!!</h1>
+]]></content>
+  </entry>
+  
+</feed>
